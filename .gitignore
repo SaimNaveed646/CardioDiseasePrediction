@@ -1,5 +1,6 @@
 # Virtual environment
 myenv/
+myenv2/
 
 # VS Code settings
 .vscode/
